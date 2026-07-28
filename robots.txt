@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://st4rtx.github.io/mohammad-navabi-portfolio/sitemap.xml
